@@ -35,5 +35,11 @@ O sistema permite:
 
 Como se trata de um projeto acadêmico, qualquer sugestão de melhoria é bem-vinda! Fique à vontade para compartilhar feedback.
 
+## 💪 Colaboradores
+
+<a href="https://github.com/CarlosBrittes/SistemaStudio64/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CarlosBrittes/SistemaStudio64" />
+</a>
+
 ---
 
